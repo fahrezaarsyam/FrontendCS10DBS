@@ -1,4 +1,4 @@
-const BASE_URL = process.env.NEXT_PUBLIC_API_URL ?? 'https://backend-modul-8-dbs-production.up.railway.app';
+const BASE_URL = process.env.NEXT_PUBLIC_API_URL ?? 'https://backendcs10dbs-production.up.railway.app';
 
 
 export interface UserSession {
